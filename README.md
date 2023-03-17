@@ -12,7 +12,7 @@ UwU
 
 ## Quwuickstawt
 
-Compiwe with make:
+Compiwe with `make` and `clang`:
 
 ```console
 $ make
